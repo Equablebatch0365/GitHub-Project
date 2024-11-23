@@ -1,0 +1,1 @@
+Hi Git. This is my new and furmost project created, and I'll like people to collaborate on it and help me style it better while i also create new projects. Creating a weather forecast project might seem a bit outdated but i'm starting something new.
